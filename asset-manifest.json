@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-card-game/static/css/main.8cf9e5ad.css",
+    "main.js": "/memory-card-game/static/js/main.89dc0703.js",
+    "static/media/jace.jpg": "/memory-card-game/static/media/jace.1fc647e4fb655ab36b0a.jpg",
+    "static/media/liliana.jpg": "/memory-card-game/static/media/liliana.0939a4118df007a06504.jpg",
+    "static/media/nicol-bolas.jpg": "/memory-card-game/static/media/nicol-bolas.e56d4db523382fdccc26.jpg",
+    "static/media/garruk.jpg": "/memory-card-game/static/media/garruk.1ad47f08bee46e9f7f49.jpg",
+    "static/media/the-wanderer.jpg": "/memory-card-game/static/media/the-wanderer.e621d18e5785e658f4a9.jpg",
+    "static/media/teferi.jpg": "/memory-card-game/static/media/teferi.4059ab5c8d8a730bf532.jpg",
+    "static/media/narset.jpg": "/memory-card-game/static/media/narset.8ec2ff2c134a1ff1215d.jpg",
+    "static/media/daretti.jpg": "/memory-card-game/static/media/daretti.34c78f7c2e2ecc5686ce.jpg",
+    "static/media/ugin.jpg": "/memory-card-game/static/media/ugin.866ee6498bdfaaf05d43.jpg",
+    "static/media/vraska.jpg": "/memory-card-game/static/media/vraska.5261f115ab782bf73f13.jpg",
+    "static/media/ashiok.jpg": "/memory-card-game/static/media/ashiok.5545647f2b5bc4935630.jpg",
+    "static/media/chandra.jpg": "/memory-card-game/static/media/chandra.74567744940e64159b20.jpg",
+    "index.html": "/memory-card-game/index.html",
+    "main.8cf9e5ad.css.map": "/memory-card-game/static/css/main.8cf9e5ad.css.map",
+    "main.89dc0703.js.map": "/memory-card-game/static/js/main.89dc0703.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cf9e5ad.css",
+    "static/js/main.89dc0703.js"
+  ]
+}
